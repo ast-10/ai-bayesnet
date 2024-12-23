@@ -1,0 +1,79 @@
+[
+  {
+    "variable": "Burglary",
+    "parents": [],
+    "values": [
+      0.01,
+      0.99
+    ]
+  },
+  {
+    "variable": "Earthquake",
+    "parents": [],
+    "values": [
+      0.02,
+      0.98
+    ]
+  },
+  {
+    "variable": "Alarm",
+    "parents": [
+      "Burglary",
+      "Earthquake"
+    ],
+    "values": [
+      [
+        [
+          0.95,
+          0.05
+        ],
+        [
+          0.94,
+          0.06
+        ]
+      ],
+      [
+        [
+          0.29,
+          0.71
+        ],
+        [
+          0.001,
+          0.999
+        ]
+      ]
+    ]
+  },
+  {
+    "variable": "MaryCalls",
+    "parents": [
+      "Alarm"
+    ],
+    "values": [
+      [
+        0.7,
+        0.3
+      ],
+      [
+        0.01,
+        0.99
+      ]
+    ]
+  },
+  {
+    "variable": "JohnCalls",
+    "parents": [
+      "Alarm"
+    ],
+    "values": [
+      [
+        0.9,
+        0.1
+      ],
+      [
+        0.05,
+        0.95
+      ]
+    ]
+  }
+]

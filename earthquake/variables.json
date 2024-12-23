@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Burglary",
+    "value_names": [
+      "True",
+      "False"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Earthquake",
+    "value_names": [
+      "True",
+      "False"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Alarm",
+    "value_names": [
+      "True",
+      "False"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "MaryCalls",
+    "value_names": [
+      "True",
+      "False"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "JohnCalls",
+    "value_names": [
+      "True",
+      "False"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  }
+]

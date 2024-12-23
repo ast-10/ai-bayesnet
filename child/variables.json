@@ -1,0 +1,262 @@
+[
+  {
+    "name": "BirthAsphyxia",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Disease",
+    "value_names": [
+      "PFC",
+      "TGA",
+      "Fallot",
+      "PAIVS",
+      "TAPVD",
+      "Lung"
+    ],
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "name": "Sick",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Age",
+    "value_names": [
+      "0-3_days",
+      "4-10_days",
+      "11-30_days"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "LungFlow",
+    "value_names": [
+      "Normal",
+      "Low",
+      "High"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "LungParench",
+    "value_names": [
+      "Normal",
+      "Congested",
+      "Abnormal"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Grunting",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "GruntingReport",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "ChestXray",
+    "value_names": [
+      "Normal",
+      "Oligaemic",
+      "Plethoric",
+      "Grd_Glass",
+      "Asy/Patch"
+    ],
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "XrayReport",
+    "value_names": [
+      "Normal",
+      "Oligaemic",
+      "Plethoric",
+      "Grd_Glass",
+      "Asy/Patchy"
+    ],
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "CO2",
+    "value_names": [
+      "Normal",
+      "Low",
+      "High"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "CO2Report",
+    "value_names": [
+      "<7.5",
+      ">=7.5"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "CardiacMixing",
+    "value_names": [
+      "None",
+      "Mild",
+      "Complete",
+      "Transp."
+    ],
+    "values": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "HypoxiaInO2",
+    "value_names": [
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "RUQO2",
+    "value_names": [
+      "<5",
+      "5-12",
+      "12+"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "DuctFlow",
+    "value_names": [
+      "Lt_to_Rt",
+      "None",
+      "Rt_to_Lt"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "HypDistrib",
+    "value_names": [
+      "Equal",
+      "Unequal"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "LowerBodyO2",
+    "value_names": [
+      "<5",
+      "5-12",
+      "12+"
+    ],
+    "values": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "LVH",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "LVHreport",
+    "value_names": [
+      "yes",
+      "no"
+    ],
+    "values": [
+      0,
+      1
+    ]
+  }
+]
